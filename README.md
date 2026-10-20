@@ -27,36 +27,8 @@ I'm Vasanth, a beginner web developer learning how to build clean, responsive, a
 - Git and GitHub
 - Browser developer tools
 
-## 🚀 Projects I'm Working Toward
 
-Here are some projects I plan to build as I improve my skills:
 
-| Project | What I'll Learn |
-|---|---|
-| Personal Portfolio | HTML, CSS, responsive design |
-| To-Do List App | JavaScript, DOM manipulation |
-| Calculator | JavaScript functions and events |
-| Weather App | APIs and asynchronous JavaScript |
-| College Project Website | Layout, navigation, and forms |
-
-*These are learning goals, not completed projects. I'll update this section as I build them.*
-
-## 📈 My Learning Goals
-
-- [ ] Build my first responsive website
-- [ ] Learn JavaScript fundamentals
-- [ ] Create interactive web applications      
-- [ ] Understand Git and GitHub workflows
-- [ ] Publish a personal portfolio website
-- [ ] Build and document independent projects
-
-## 🤝 Let's Connect
-
-I'm always happy to learn, explore ideas, and collaborate on beginner-friendly projects.
-
-**GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
----
 
 ⭐ Thanks for visiting my profile!
 
